@@ -41,6 +41,7 @@ import de.hdodenhof.circleimageview.CircleImageView;
 
 public class UserProfileEditActivity extends AppCompatActivity implements CameraInterface, PhotoInterface {
     private ActionBar toolbar;
+
     private MenuItem save;
     private RelativeLayout top;
     private CircleImageView userImg;
